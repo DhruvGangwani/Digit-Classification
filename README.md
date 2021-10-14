@@ -1,9 +1,14 @@
 # Digit-Classification
 Dataset:
+
 txt file containing binary representation of digits (32 rows * 32 columns)
+
 sample of original data is provided in raw_data directory
+
 classes : Nine (0 to 9 digits)
+
 training size : 1934
+
 test size : 946
 
 
